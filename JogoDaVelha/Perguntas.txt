@@ -1,0 +1,457 @@
+[inicioPergunta]
+1. Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?
+[fimPergunta]
+[inicioRespostas]
+1) Tem entre 2 a 4 litros. São retirados 450 mililitros
+2) Tem entre 4 a 6 litros. São retirados 450 mililitros
+3) Tem 10 litros. São retirados 2 litros
+4) Tem 7 litros. São retirados 1,5 litros
+5) Tem 0,5 litros. São retirados 0,5 litros
+**
+[inicioRespostaCorreta]
+2
+[fimRespostaCorreta]
+
+//Alternativa b: Entre 4 a 6 litros. São retirados 450 mililitros.
+
+2. De quem é a famosa frase “Penso, logo existo"?
+a) Platão
+b) Galileu Galilei
+c) Descartes
+d) Sócrates
+e) Francis Bacon
+**
+
+Resposta: 
+
+//Alternativa c: Descartes.
+
+3. De onde é a invenção do chuveiro elétrico?
+a) França
+b) Inglaterra
+c) Brasil
+d) Austrália
+e) Itália
+
+Resposta: 
+
+//Alternativa c: Brasil.
+
+4. Quais o menor e o maior país do mundo?
+a) Vaticano e Rússia
+b) Nauru e China
+c) Mônaco e Canadá
+d) Malta e Estados Unidos
+e) São Marino e Índia
+
+Resposta: 
+
+//Alternativa a: Vaticano e Rússia.
+
+5. Qual o nome do presidente do Brasil que ficou conhecido como Jango?
+
+a) Jânio Quadros
+b) Jacinto Anjos
+c) Getúlio Vargas
+d) João Figueiredo
+e) João Goulart
+
+Resposta: 
+
+//Alternativa e: João Goulart.
+
+6. Qual o grupo em que todas as palavras foram escritas corretamente?
+
+a) Asterístico, beneficiente, meteorologia, entertido
+b) Asterisco, beneficente, meteorologia, entretido
+c) Asterisco, beneficente, metereologia, entretido
+d) Asterístico, beneficiente, metereologia, entretido
+e) Asterisco, beneficiente, metereologia, entretido
+
+Resposta: 
+
+//Alternativa b: Asterisco, beneficente, meteorologia, entretido.
+
+7. Qual o livro mais vendido no mundo a seguir à Bíblia?
+
+a) O Senhor dos Anéis
+b) Dom Quixote
+c) O Pequeno Príncipe
+d) Ela, a Feiticeira
+e) Um Conto de Duas Cidades
+
+Resposta: 
+
+//Alternativa b: Dom Quixote.
+
+8. Quantas casas decimais tem o número pi?
+
+a) Duas
+b) Centenas
+c) Trilhares
+d) Vinte
+e) Milhares
+
+Resposta: 
+
+//Alternativa c: Trilhares.
+
+9. Atualmente, quantos elementos químicos a tabela periódica possui?
+
+a) 113
+b) 109
+c) 108
+d) 118
+e) 92
+
+Resposta: 
+
+//Alternativa d: 118.
+
+10. Quais os países que têm a maior e a menor expectativa de vida do mundo?
+
+a) Japão e Serra Leoa
+b) Austrália e Afeganistão
+c) Itália e Chade
+d) Brasil e Congo
+e) Estados Unidos e Angola
+
+Resposta: 
+
+Alternativa a: Japão e Serra Leoa.
+
+11. O que a palavra legend significa em português?
+
+a) Legenda
+b) Conto
+c) História
+d) Lenda
+e) Legendário
+
+Resposta: 
+
+//Alternativa d: Lenda.
+
+12. Qual o número mínimo de jogadores numa partida de futebol?
+
+a) 8
+b) 10
+c) 9
+d) 5
+e) 7
+
+Resposta: 
+
+//Alternativa e: 7.
+
+13. Quais os principais autores do Barroco no Brasil?
+
+a) Gregório de Matos, Bento Teixeira e Manuel Botelho de Oliveira
+b) Miguel de Cervantes, Gregório de Matos e Danthe Alighieri
+c) Padre Antônio Vieira, Padre Manuel de Melo e Gregório de Matos
+d) Castro Alves, Bento Teixeira e Manuel Botelho de Oliveira
+e) Álvares de Azevedo, Gregório de Matos e Bento Teixeira
+
+Resposta: 
+
+//Alternativa a: Gregório de Matos, Bento Teixeira e Manuel Botelho de Oliveira.
+
+14. Quais as duas datas que são comemoradas em novembro?
+
+a) Independência do Brasil e Dia da Bandeira
+b) Proclamação da República e Dia Nacional da Consciência Negra
+c) Dia do Médico e Dia de São Lucas
+d) Dia de Finados e Dia Nacional do Livro
+e) Black Friday e Dia da Árvore
+
+Resposta: 
+
+//Alternativa b: Proclamação da República e Dia Nacional da Consciência Negra
+
+15. Quem pintou 'Guernica'?
+
+a) Paul Cézanne
+b) Pablo Picasso
+c) Diego Rivera
+d) Tarsila do Amaral
+e) Salvador Dalí
+
+Resposta: 
+
+//Alternativa b: Pablo Picasso.
+
+16. Quanto tempo a luz do Sol demora para chegar à Terra?
+
+a) 12 minutos
+b) 1 dia
+c) 12 horas
+d) 8 minutos
+e) segundos
+
+Resposta: 
+
+//Alternativa d: 8 minutos.
+
+17. Qual a tradução da frase “Fabiano cogió su saco antes de salir”?
+
+a) Fabiano coseu seu paletó antes de sair
+b) Fabiano fechou o saco antes de sair
+c) Fabiano pegou seu paletó antes de sair
+d) Fabiano cortou o saco antes de cair
+e) Fabiano rasgou seu paletó antes de cair
+
+Resposta: 
+
+//Alternativa c: Fabiano pegou seu paletó antes de sair.
+
+18. Qual a nacionalidade de Che Guevara?
+
+a) Cubana
+b) Peruana
+c) Panamenha
+d) Boliviana
+e) Argentina
+
+Resposta: 
+
+//Alternativa e: Argentina.
+
+19. Quais são os três predadores do reino animal reconhecidos pela habilidade de caçar em grupo, se camuflar para surpreender as presas e possuir sentidos apurados, respectivamente:
+
+a) Tubarão branco, crocodilo e sucuri
+b) Tigre, gavião e orca
+c) Hiena, urso branco e lobo cinzento
+d) Orca, onça e tarântula
+e) Leão, tubarão branco e urso cinzento
+
+Resposta: 
+
+//Alternativa c: Hiena, urso branco e lobo cinzento.
+
+20. Qual a altura da rede de vôlei nos jogos masculino e feminino?
+
+a) 2,4 para ambos
+b) 2,5 m e 2,0 m
+c) 1,8 m e 1,5 m
+d) 2,45 m e 2,15 m
+e) 2,43 m e 2,24 m
+
+Resposta: 
+
+//Alternativa e: 2,43 m e 2,24 m.
+
+21. Em que ordem surgiram os modelos atômicos?
+
+a) Thomson, Dalton, Rutherford, Rutherford-Bohr
+b) Rutherford-Bohr, Rutherford, Thomson, Dalton
+c) Dalton, Rutherford-Bohr, Thomson, Rutherford
+d) Dalton, Thomson, Rutherford-Bohr, Rutherford
+e) Dalton, Thomson, Rutherford, Rutherford-Bohr
+
+Resposta :
+
+//Alternativa e: Dalton, Thomson, Rutherford, Rutherford-Bohr.
+
+22. Qual personagem folclórico costuma ser agradado pelos caçadores com a oferta de fumo?
+
+a) Caipora
+b) Saci
+c) Lobisomem
+d) Boitatá
+e) Negrinho do Pastoreio
+
+Resposta: 
+
+//Alternativa a: Caipora.
+
+23. Em que período da pré-história o fogo foi descoberto?
+
+a) Neolítico
+b) Paleolítico
+c) Idade dos Metais
+d) Período da Pedra Polida
+e) Idade Média
+
+Resposta: 
+
+//Alternativa b: Paleolítico.
+
+24. Qual das alternativas abaixo apenas contêm classes de palavras?
+
+a) Vogais, semivogais e consoantes
+b) Artigo, verbo transitivo e verbo intransitivo
+c) Fonologia, Morfologia e Sintaxe
+d) Hiatos, ditongos e tritongos
+e) Substantivo, verbo e preposição
+
+Resposta: 
+
+//Alternativa e: Substantivo, verbo e preposição.
+
+25. Qual a montanha mais alta do Brasil?
+
+a) Pico da Neblina
+b) Pico Paraná
+c) Monte Roraima
+d) Pico Maior de Friburgo
+e) Pico da Bandeira
+
+Resposta: 
+
+//Alternativa a: Pico da Neblina.
+
+26. Qual a velocidade da luz?
+
+a) 300 000 000 metros por segundo (m/s)
+b) 150 000 000 metros por segundo (m/s)
+c) 199 792 458 metros por segundo (m/s)
+d) 299 792 458 metros por segundo (m/s)
+e) 30 000 000 metros por segundo (m/s)
+
+Resposta: 
+
+//Alternativa d: 299 792 458 metros por segundo (m/s).
+
+27. Em qual local da Ásia o português é língua oficial?
+
+a) Índia
+b) Filipinas
+c) Moçambique
+d) Macau
+e) Portugal
+
+Resposta: 
+
+//Alternativa d: Macau.
+
+28. “It is six twenty ou twenty past six”. Que horas são em inglês?
+
+a) 12:06
+b) 6:20
+c) 2:20
+d) 6:02
+e) 12:20
+
+Resposta: 
+
+//Alternativa b: 6:20.
+
+29. Quem é o autor de “O Príncipe”?
+
+a) Maquiavel
+b) Antoine de Saint-Exupéry
+c) Montesquieu
+d) Thomas Hobbes
+e) Rousseau
+
+Resposta: 
+
+//Alternativa a: Maquiavel.
+
+30. Como é a conjugação do verbo caber na 1.ª pessoa do singular do presente do indicativo?
+
+a) Eu caibo
+b) Ele cabe
+c) Que eu caiba
+d) Eu cabo
+e) Nenhuma das alternativas
+
+Resposta: 
+
+//Alternativa a: Eu caibo.
+
+31. Qual foi o recurso utilizado inicialmente pelo homem para explicar a origem das coisas?
+
+a) A Filosofia
+b) A Biologia
+c) A Matemática
+d) A Astronomia
+e) A Mitologia
+
+Resposta: 
+
+//Alternativa e: A Mitologia
+
+32. Qual o maior animal terrestre?
+
+a) Baleia Azul
+b) Dinossauro
+c) Elefante africano
+d) Tubarão Branco
+e) Girafa
+
+Resposta: 
+
+//Alternativa c: Elefante africano.
+
+33. As pessoas de qual tipo sanguíneo são consideradas doadores universais?
+
+a) Tipo A
+b) Tipo B
+c) Tipo O
+d) Tipo AB
+e) Tipo ABO
+
+Resposta: 
+
+//Alternativa c: Tipo O
+
+34.''A Rosa Negra irá desabrochar novamente''.De quem é a frase acima?
+a)LeBlanc (rps)
+b)Jhin
+c)Zyra
+d)Ivern
+
+Resposta: 
+
+35.Quanto de bônus no dano do Acerto Crítico é aplicado pela passiva única do Gume do Infinito?
+a)100%
+b)70%
+c)50%(rps)
+d)200%
+
+Resposta: 
+
+36.Dois campeões foram nomeados em homenagem aos fundadores da Riot Games, Marc Merill e Brandon Beck. Quem são eles?
+a)Tryndamere e Ryze(rps)
+b)Alistar e Graves
+c)Riven e Lee Sin
+d)Zilean e Viktor
+
+Resposta: 
+
+37.Annie e Tibbers ganharam uma homenagem da Riot Games. Qual foi essa homenagem?
+
+a)Um de seus funcionários nomeou seus filhos homenageando os dois
+b)A dupla está escondida em toda a comunicação da empresa
+c)Tem uma estátua enorme dos dois no escritório principal da Riot(rps)
+d)Eles estrelam uma série de quadrinhos
+
+Resposta: 
+
+38.(...) if (nota<=5) writeln(''Aluno Reprovad'' else writeln(''Aluno Aprovado'' (...) end. Seguindo o código em PASCAL acima, o aluno SÓ é aprovado caso?
+
+a)Nota = 5;
+b)Nota < 5;
+c)Nota >= 5;
+d)Nenhuma das Anteriores; (rps)
+
+Resposta: 
+
+39.Pela fórmula 2 elevado na N é possível descobrir quantos números pode se ter em binário pelo número de digitos(Bits). Com 8 Bits, até que número posso contar em binário?
+
+a)256
+b)512
+c)1023
+d)255 (rps)
+
+Resposta: 
+
+40.O número 010010 representa que número decimal?
+
+a)10
+b)10010
+c)18 (rps)
+d)16
+
+Resposta: 
